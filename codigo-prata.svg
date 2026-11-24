@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="800" height="170" xmlns:c2pa="http://c2pa.org/manifest">
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.2" stop-color="#fff"/><stop offset="0.8" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect x="0" y="30" width="800" height="140" fill="url(#fade)"/></mask>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6F6FA"/><stop offset="0.5" stop-color="#DEDEE8"/><stop offset="1" stop-color="#EFEFF5"/></linearGradient></defs>
+<rect x="1" y="1" width="798" height="168" rx="16" fill="url(#bg)" stroke="#B4B4C4" stroke-width="1.5"/>
+<circle cx="22" cy="18" r="4.5" fill="#FF69B4"/><circle cx="38" cy="18" r="4.5" fill="#B4B4C4"/><circle cx="54" cy="18" r="4.5" fill="#B4B4C4"/>
+<text x="778" y="22" text-anchor="end" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" fill="#8E8E9E" letter-spacing="2">SYS_DASHBOARD // LIVE FEED</text>
+<line x1="14" y1="32" x2="786" y2="32" stroke="#C4C4D2" stroke-width="1"/>
+<g mask="url(#m)" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12">
+<g transform="translate(20 0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -216" dur="13.4s" repeatCount="indefinite"/>
+<text x="0" y="52" fill="#FF1493" xml:space="preserve">return &lt;App /&gt;</text>
+<text x="0" y="70" fill="#5A5A6B" xml:space="preserve">SELECT * FROM sonhos</text>
+<text x="0" y="88" fill="#5A5A6B" xml:space="preserve">int main() {</text>
+<text x="0" y="106" fill="#5A5A6B" xml:space="preserve">  programar()</text>
+<text x="0" y="124" fill="#5A5A6B" xml:space="preserve">if (rosa) { amar() }</text>
+<text x="0" y="142" fill="#5A5A6B" xml:space="preserve">SYS_DASHBOARD.exe</text>
+<text x="0" y="160" fill="#5A5A6B" xml:space="preserve">$ git commit -m 'oi'</text>
+<text x="0" y="178" fill="#5A5A6B" xml:space="preserve">  await criar()</text>
+<text x="0" y="196" fill="#5A5A6B" xml:space="preserve">const rosa = true</text>
+<text x="0" y="214" fill="#FF1493" xml:space="preserve">print('oi mundo')</text>
+<text x="0" y="232" fill="#5A5A6B" xml:space="preserve">npm run dev</text>
+<text x="0" y="250" fill="#5A5A6B" xml:space="preserve">import react</text>
+<text x="0" y="268" fill="#FF1493" xml:space="preserve">return &lt;App /&gt;</text>
+<text x="0" y="286" fill="#5A5A6B" xml:space="preserve">SELECT * FROM sonhos</text>
+<text x="0" y="304" fill="#5A5A6B" xml:space="preserve">int main() {</text>
+<text x="0" y="322" fill="#5A5A6B" xml:space="preserve">  programar()</text>
+<text x="0" y="340" fill="#5A5A6B" xml:space="preserve">if (rosa) { amar() }</text>
+<text x="0" y="358" fill="#5A5A6B" xml:space="preserve">SYS_DASHBOARD.exe</text>
+<text x="0" y="376" fill="#5A5A6B" xml:space="preserve">$ git commit -m 'oi'</text>
+<text x="0" y="394" fill="#5A5A6B" xml:space="preserve">  await criar()</text>
+<text x="0" y="412" fill="#5A5A6B" xml:space="preserve">const rosa = true</text>
+<text x="0" y="430" fill="#FF1493" xml:space="preserve">print('oi mundo')</text>
+<text x="0" y="448" fill="#5A5A6B" xml:space="preserve">npm run dev</text>
+<text x="0" y="466" fill="#5A5A6B" xml:space="preserve">import react</text>
+</g></g>
+<g transform="translate(180 0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -216" dur="9.7s" repeatCount="indefinite"/>
+<text x="0" y="52" fill="#7C7C8E" xml:space="preserve">  return 'codigo'</text>
+<text x="0" y="70" fill="#7C7C8E" xml:space="preserve">  programar()</text>
+<text x="0" y="88" fill="#7C7C8E" xml:space="preserve">async function ser()</text>
+<text x="0" y="106" fill="#7C7C8E" xml:space="preserve">npm run dev</text>
+<text x="0" y="124" fill="#7C7C8E" xml:space="preserve">}</text>
+<text x="0" y="142" fill="#7C7C8E" xml:space="preserve">class Lola:</text>
+<text x="0" y="160" fill="#FF1493" xml:space="preserve">y2k.init()</text>
+<text x="0" y="178" fill="#7C7C8E" xml:space="preserve">  pass</text>
+<text x="0" y="196" fill="#7C7C8E" xml:space="preserve">export default App</text>
+<text x="0" y="214" fill="#7C7C8E" xml:space="preserve">const rosa = true</text>
+<text x="0" y="232" fill="#7C7C8E" xml:space="preserve">  display: grid;</text>
+<text x="0" y="250" fill="#7C7C8E" xml:space="preserve">let brilho = 100</text>
+<text x="0" y="268" fill="#7C7C8E" xml:space="preserve">  return 'codigo'</text>
+<text x="0" y="286" fill="#7C7C8E" xml:space="preserve">  programar()</text>
+<text x="0" y="304" fill="#7C7C8E" xml:space="preserve">async function ser()</text>
+<text x="0" y="322" fill="#7C7C8E" xml:space="preserve">npm run dev</text>
+<text x="0" y="340" fill="#7C7C8E" xml:space="preserve">}</text>
+<text x="0" y="358" fill="#7C7C8E" xml:space="preserve">class Lola:</text>
+<text x="0" y="376" fill="#FF1493" xml:space="preserve">y2k.init()</text>
+<text x="0" y="394" fill="#7C7C8E" xml:space="preserve">  pass</text>
+<text x="0" y="412" fill="#7C7C8E" xml:space="preserve">export default App</text>
+<text x="0" y="430" fill="#7C7C8E" xml:space="preserve">const rosa = true</text>
+<text x="0" y="448" fill="#7C7C8E" xml:space="preserve">  display: grid;</text>
+<text x="0" y="466" fill="#7C7C8E" xml:space="preserve">let brilho = 100</text>
+</g></g>
+<g transform="translate(340 0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -216" dur="8.0s" repeatCount="indefinite"/>
+<text x="0" y="52" fill="#4A4A5A" xml:space="preserve">network.status = 98.7</text>
+<text x="0" y="70" fill="#4A4A5A" xml:space="preserve">  return 0;</text>
+<text x="0" y="88" fill="#4A4A5A" xml:space="preserve">}</text>
+<text x="0" y="106" fill="#FF1493" xml:space="preserve">&lt;div class='y2k'&gt;</text>
+<text x="0" y="124" fill="#4A4A5A" xml:space="preserve">y2k.init()</text>
+<text x="0" y="142" fill="#4A4A5A" xml:space="preserve">def amar():</text>
+<text x="0" y="160" fill="#4A4A5A" xml:space="preserve">git push origin main</text>
+<text x="0" y="178" fill="#4A4A5A" xml:space="preserve">return &lt;App /&gt;</text>
+<text x="0" y="196" fill="#4A4A5A" xml:space="preserve">body { color: silver }</text>
+<text x="0" y="214" fill="#4A4A5A" xml:space="preserve">print('oi mundo')</text>
+<text x="0" y="232" fill="#4A4A5A" xml:space="preserve">if (rosa) { amar() }</text>
+<text x="0" y="250" fill="#4A4A5A" xml:space="preserve">  pass</text>
+<text x="0" y="268" fill="#4A4A5A" xml:space="preserve">network.status = 98.7</text>
+<text x="0" y="286" fill="#4A4A5A" xml:space="preserve">  return 0;</text>
+<text x="0" y="304" fill="#4A4A5A" xml:space="preserve">}</text>
+<text x="0" y="322" fill="#FF1493" xml:space="preserve">&lt;div class='y2k'&gt;</text>
+<text x="0" y="340" fill="#4A4A5A" xml:space="preserve">y2k.init()</text>
+<text x="0" y="358" fill="#4A4A5A" xml:space="preserve">def amar():</text>
+<text x="0" y="376" fill="#4A4A5A" xml:space="preserve">git push origin main</text>
+<text x="0" y="394" fill="#4A4A5A" xml:space="preserve">return &lt;App /&gt;</text>
+<text x="0" y="412" fill="#4A4A5A" xml:space="preserve">body { color: silver }</text>
+<text x="0" y="430" fill="#4A4A5A" xml:space="preserve">print('oi mundo')</text>
+<text x="0" y="448" fill="#4A4A5A" xml:space="preserve">if (rosa) { amar() }</text>
+<text x="0" y="466" fill="#4A4A5A" xml:space="preserve">  pass</text>
+</g></g>
+<g transform="translate(500 0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -216" dur="9.1s" repeatCount="indefinite"/>
+<text x="0" y="52" fill="#FF1493" xml:space="preserve">network.status = 98.7</text>
+<text x="0" y="70" fill="#8A8A9C" xml:space="preserve">const rosa = true</text>
+<text x="0" y="88" fill="#8A8A9C" xml:space="preserve">  display: grid;</text>
+<text x="0" y="106" fill="#8A8A9C" xml:space="preserve">  return 0;</text>
+<text x="0" y="124" fill="#8A8A9C" xml:space="preserve">SYS_DASHBOARD.exe</text>
+<text x="0" y="142" fill="#8A8A9C" xml:space="preserve">&lt;div class='y2k'&gt;</text>
+<text x="0" y="160" fill="#8A8A9C" xml:space="preserve">int main() {</text>
+<text x="0" y="178" fill="#8A8A9C" xml:space="preserve">for (i in estudo)</text>
+<text x="0" y="196" fill="#8A8A9C" xml:space="preserve">while (vivo) {</text>
+<text x="0" y="214" fill="#FF1493" xml:space="preserve">export default App</text>
+<text x="0" y="232" fill="#8A8A9C" xml:space="preserve">class Lola:</text>
+<text x="0" y="250" fill="#8A8A9C" xml:space="preserve">return &lt;App /&gt;</text>
+<text x="0" y="268" fill="#FF1493" xml:space="preserve">network.status = 98.7</text>
+<text x="0" y="286" fill="#8A8A9C" xml:space="preserve">const rosa = true</text>
+<text x="0" y="304" fill="#8A8A9C" xml:space="preserve">  display: grid;</text>
+<text x="0" y="322" fill="#8A8A9C" xml:space="preserve">  return 0;</text>
+<text x="0" y="340" fill="#8A8A9C" xml:space="preserve">SYS_DASHBOARD.exe</text>
+<text x="0" y="358" fill="#8A8A9C" xml:space="preserve">&lt;div class='y2k'&gt;</text>
+<text x="0" y="376" fill="#8A8A9C" xml:space="preserve">int main() {</text>
+<text x="0" y="394" fill="#8A8A9C" xml:space="preserve">for (i in estudo)</text>
+<text x="0" y="412" fill="#8A8A9C" xml:space="preserve">while (vivo) {</text>
+<text x="0" y="430" fill="#FF1493" xml:space="preserve">export default App</text>
+<text x="0" y="448" fill="#8A8A9C" xml:space="preserve">class Lola:</text>
+<text x="0" y="466" fill="#8A8A9C" xml:space="preserve">return &lt;App /&gt;</text>
+</g></g>
+<g transform="translate(660 0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -216" dur="9.8s" repeatCount="indefinite"/>
+<text x="0" y="52" fill="#6A6A7C" xml:space="preserve">if (rosa) { amar() }</text>
+<text x="0" y="70" fill="#6A6A7C" xml:space="preserve">  display: grid;</text>
+<text x="0" y="88" fill="#6A6A7C" xml:space="preserve">}</text>
+<text x="0" y="106" fill="#6A6A7C" xml:space="preserve">for (i in estudo)</text>
+<text x="0" y="124" fill="#6A6A7C" xml:space="preserve">const rosa = true</text>
+<text x="0" y="142" fill="#6A6A7C" xml:space="preserve">  programar()</text>
+<text x="0" y="160" fill="#FF1493" xml:space="preserve">let brilho = 100</text>
+<text x="0" y="178" fill="#6A6A7C" xml:space="preserve">&lt;div class='y2k'&gt;</text>
+<text x="0" y="196" fill="#6A6A7C" xml:space="preserve">git push origin main</text>
+<text x="0" y="214" fill="#6A6A7C" xml:space="preserve">SELECT * FROM sonhos</text>
+<text x="0" y="232" fill="#6A6A7C" xml:space="preserve">def amar():</text>
+<text x="0" y="250" fill="#6A6A7C" xml:space="preserve">while (vivo) {</text>
+<text x="0" y="268" fill="#6A6A7C" xml:space="preserve">if (rosa) { amar() }</text>
+<text x="0" y="286" fill="#6A6A7C" xml:space="preserve">  display: grid;</text>
+<text x="0" y="304" fill="#6A6A7C" xml:space="preserve">}</text>
+<text x="0" y="322" fill="#6A6A7C" xml:space="preserve">for (i in estudo)</text>
+<text x="0" y="340" fill="#6A6A7C" xml:space="preserve">const rosa = true</text>
+<text x="0" y="358" fill="#6A6A7C" xml:space="preserve">  programar()</text>
+<text x="0" y="376" fill="#FF1493" xml:space="preserve">let brilho = 100</text>
+<text x="0" y="394" fill="#6A6A7C" xml:space="preserve">&lt;div class='y2k'&gt;</text>
+<text x="0" y="412" fill="#6A6A7C" xml:space="preserve">git push origin main</text>
+<text x="0" y="430" fill="#6A6A7C" xml:space="preserve">SELECT * FROM sonhos</text>
+<text x="0" y="448" fill="#6A6A7C" xml:space="preserve">def amar():</text>
+<text x="0" y="466" fill="#6A6A7C" xml:space="preserve">while (vivo) {</text>
+</g></g>
+</g>
+<g transform="translate(776 142)"><path d="M0 -8 L2.0 -2.0 L8 0 L2.0 2.0 L0 8 L-2.0 2.0 L-8 0 L-2.0 -2.0 Z" fill="#FF69B4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></path></g>
+<g transform="translate(30 150)"><path d="M0 -6 L1.5 -1.5 L6 0 L1.5 1.5 L0 6 L-1.5 1.5 L-6 0 L-1.5 -1.5 Z" fill="#FF69B4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.0s" repeatCount="indefinite"/></path></g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4MTcyY2JiMC1mNzJiLTQyYzktODU4YS1kMjE1YWQzZDIzNTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEphEpWNlPHhtOzMK1ff7MYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2ZjlkNjZhYi02NTdlLTRhZjktOGVlYS1lYjQzMDZlMTAzODJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNosZzivnWF99QmYV/iACZoRQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggG2MpSonniag93AQP+9VvaqCvmKaiqYnSSxu6TNg8ErWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJnpFFP95LEXU5Iz1WXf+3oAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYID0yyC3bG2yEEMolFgJ3Sjp/s0i+qE1sIGZOK2dxHWceZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GS8KZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgxNzJjYmIwLWY3MmItNDJjOS04NThhLWQyMTVhZDNkMjM1NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjUzZDJiZmNlLTg2ZGYtNDczNi04YjQ3LTA0NDI0YjI4YmIzY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAbYylKieeJqD3cBA/71W9qoK+YpqKpidJLG7pM2DwStaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfc2wblGEqxLJTVvStrVXEYZFghpI+Ek6MxL+OQ4/SNGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggB8+2qYznsi0Sjt9akONPtbMw00AYrwWYOi3vfXmVvnZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFUOR9AltKlZEsLH3RswIOU1S5SJUF8Ccl75Bp2/cCW5fQ5TNOzUkUdaEELCTQTqSdFPMwHjR0uTOcFE9YHNqGs=</c2pa:manifest></metadata></svg>
